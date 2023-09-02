@@ -1,4 +1,4 @@
-- 👋 Hi, We are @fanmadestudio
+- 👋 Hi, I'm Hanif
 - 👀 I’m interested in Laravel and Tailwind-CSS at this current time
 - 🌱 I’m currently learning Laravel and Tailwind-CSS 
 - 💞️ I’m looking to collaborate on Laravel & Tailwind CSS
