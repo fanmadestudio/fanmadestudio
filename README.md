@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Hanif
+- 👋 Hi, I'm Hanif Huning Geary
 - 👀 I am open to learning new technologies, and I am particularly interested in websites and apps.
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I am looking to collaborate on open source projects or find a job in the tech industry.  
